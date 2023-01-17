@@ -2,7 +2,7 @@
 
 
 ### I used free APIs provided by RadipApi for data fetching purposes. Here's a preview 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+
 
 
 
